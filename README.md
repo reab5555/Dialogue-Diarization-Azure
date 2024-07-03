@@ -1,4 +1,4 @@
-# Speaker Diarization and Transcription (Azure)
+# Speaker Diarization and Transcription
 
 ## Description
 
