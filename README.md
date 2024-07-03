@@ -1,3 +1,5 @@
+<img src="icon.jpeg" width="150" alt="alt text">
+
 # Speaker Diarization and Transcription
 
 ## Description
