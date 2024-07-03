@@ -1,1 +1,1 @@
-# Dialogue-Diarization-Azure
+# Dialogue-Diarization
