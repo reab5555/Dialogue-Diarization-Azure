@@ -1,5 +1,3 @@
-# Dialogue-Speakers-Diarization
-
 # Speaker Diarization and Transcription Tool
 
 ## Description
