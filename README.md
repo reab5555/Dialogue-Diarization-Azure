@@ -8,7 +8,7 @@ This tool performs speaker diarization and transcription of audio or video files
 
 - **Audio/Video Input**: Supports various media file formats such as MP4, MKV, MOV, and MP3.
 - **Audio Extraction**: Extracts audio from video files and converts stereo audio to mono.
-- **Azure Blob Storage Integration**: Uploads audio files to Azure Blob Storage and generates a SAS URL for access.
+- **Azure Blob Storage Integration**: Uploads audio files to Azure Blob Storage.
 - **Batch Transcription**: Uses Azure Cognitive Services to perform batch transcription with speaker diarization.
 - **SRT File Generation**: Creates an SRT file with the dialogue texts, including speaker identification.
 
