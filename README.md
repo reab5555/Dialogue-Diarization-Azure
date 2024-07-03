@@ -1,1 +1,1 @@
-# Dialogue-Diarization
+# Dialogue-Speakers-Diarization
