@@ -46,10 +46,3 @@ Run the script:
 3. Select the media file using the file dialog that appears.
 
 The tool will process the file, upload the audio to Azure Blob Storage, perform transcription with speaker diarization, and generate an SRT file in the same directory as the media file.
-
-## Example
-
-  ```python
-  python diarization_transcription.py
-  ```
-4. After selecting your media file, the tool will generate an SRT file with the transcribed dialogue texts and speaker identification.
